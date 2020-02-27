@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Sync sample</string>
+
+    <string name="cancel_sync_work">Cancel Sync Work</string>
+    <string name="cancel_schedule_sync_work">Cancel Schedule Sync Work</string>
+    <string name="sync">Sync</string>
+    <string name="save_offer">Save offer</string>
+</resources>
